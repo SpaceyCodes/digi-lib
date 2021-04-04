@@ -12,11 +12,11 @@ Extract from [Ngee Ann Polytechnic](https://www.np.edu.sg/ict/Pages/it-syllabus.
 {: .fs-4 .fw-300 .lh-0}
 ---
 
-<link rel="stylesheet" type="text/css" media="all" href="../../css.css" />
+<link rel="stylesheet" type="text/css" media="all" href="../../css.css">
 TABLE OF CONTENTS
 * [SQL](#sql-notes)
 * [Logical Database Notes](#logical-database-notes)
-* [Final Assignment](#final-assignment)
+* [Final Assignment](#final-assignment)</br>
 
 ## SQL Notes
 <iframe src="../../SQL-Notes.pdf" class="pdf"></iframe>
