@@ -1,5 +1,5 @@
 ---
 layout: default
-title: A Math
-parent: Secondary School (O-Level)
+title: A-Math
+parent: Secondary-School-(O-Level)
 ---

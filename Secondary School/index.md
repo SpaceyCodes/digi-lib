@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Secondary School (O-Level)
+title: Secondary-School-(O-Level)
 nav_order: 10
 has_children: true
 ---
