@@ -6,8 +6,10 @@ permalink: /year-1-semester-2/database/
 ---
 # Database
 
-'This module introduces students to the underlying concepts of database systems and how to model and design database systems that reflect business requirements.' Extract from [Ngee Ann Polytechnic](https://www.np.edu.sg/ict/Pages/it-syllabus.aspx)
+'This module introduces students to the underlying concepts of database systems and how to model and design database systems that reflect business requirements.'
 {: .fs-6 .fw-300 }
+Extract from [Ngee Ann Polytechnic](https://www.np.edu.sg/ict/Pages/it-syllabus.aspx)
+{: .fs-4 .fw-300 }
 ---
 
 <link rel="stylesheet" type="text/css" media="all" href="../../css.css" />
