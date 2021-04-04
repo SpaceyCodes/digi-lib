@@ -3,6 +3,7 @@ layout: default
 title: Secondary School (O-Level)
 nav_order: 10
 has_children: true
+permalink: /o-level/
 ---
 # Polytechnic IT Year 1 Semester 2
 
