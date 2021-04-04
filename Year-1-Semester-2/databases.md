@@ -17,9 +17,12 @@ TABLE OF CONTENTS
 * [SQL](#sql-notes)
 * [Logical Database Notes](#logical-database-notes)
 * [Final Assignment](#final-assignment)
+
 ## SQL Notes
 <iframe src="../../SQL-Notes.pdf" class="pdf"></iframe>
+
 ## Logical Database Notes
 <iframe src="../../SQL-Notes.pdf" class="pdf"></iframe>
+
 ## Final Assignment
 <iframe src="../../DB-P03-Assignment02.pdf" class="pdf"></iframe>
