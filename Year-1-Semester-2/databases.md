@@ -6,7 +6,7 @@ permalink: /year-1-semester-2/database/
 ---
 # Database
 
-This module introduces students to the underlying concepts of database systems and how to model and design database systems that reflect business requirements. Students will be taught how to analyse data needs, model the relationships amongst the data entities, apply the normalisation process to relations and create the physical database. Skills taught include data modelling technique, transformation of data model to relations, normalisation technique and SQL (Structured Query Language).
+'This module introduces students to the underlying concepts of database systems and how to model and design database systems that reflect business requirements.' Extract from [Ngee Ann Polytechnic](https://www.np.edu.sg/ict/Pages/it-syllabus.aspx)
 {: .fs-6 .fw-300 }
 ---
 
