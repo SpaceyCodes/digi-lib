@@ -1,5 +1,6 @@
 ---
 layout: default
-title: Y1S2
-nav_order: 3
+title: Year 1 Semester 2
+nav_order: 8
+has_children: true
 ---
