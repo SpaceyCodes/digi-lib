@@ -4,6 +4,15 @@ title: E-Math
 parent: Secondary School (O-Level)
 permalink: /o-level/e-math/
 ---
+# E-Math
+
+'The syllabus is intended to provide students with the fundamental mathematical knowledge and skills. The
+content is organised into three strands namely, Number and Algebra, Geometry and Measurement, and
+Statistics and Probability'
+{: .fs-6 .fw-300 }
+Extract from [SEAB - GCE O-Level](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/olevel/2022syllabus/4048_y22_sy.pdf){:target="_blank"}
+{: .fs-4 .fw-300 .lh-0}
+---
 
 <link rel="stylesheet" type="text/css" media="all" href="../../css.css">
 TABLE OF CONTENTS
