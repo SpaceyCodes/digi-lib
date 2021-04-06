@@ -8,7 +8,7 @@ nav_order: 1
 
 Notes a place where past notes are stored, allowing me to more reliably access and view my notes. This is also a place where others can view and learn from my past experiences.
 {: .fs-6 .fw-300 }
-[View on GitHub](https://github.com/SpaceyCodes/digi-lib){: .btn .fs-5 .mb-4 .mb-md-0 }{:target="_blank"}
+[View on GitHub](https://github.com/SpaceyCodes/digi-lib){:target="_blank"}{: .btn .fs-5 .mb-4 .mb-md-0 }
 ---
 ## About MyNotes
 MyNotes is built on [Jekyll](https://jekyllrb.com){:target="_blank"} using ["Just the Docs"](https://pmarsceill.github.io/just-the-docs/){:target="_blank"} theme. Github then compiles the pages adn publishes it to Github Pages.
