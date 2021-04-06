@@ -5,7 +5,7 @@ parent: Secondary School (O-Level)
 permalink: /o-level/a-math/
 ---
 # A-Math
-
+{: .no_toc }
 'The syllabus prepares students adequately for A-Level H2 Mathematics, where a strong foundation in
 algebraic manipulation skills and mathematical reasoning skills are required. '
 {: .fs-6 .fw-300 }
