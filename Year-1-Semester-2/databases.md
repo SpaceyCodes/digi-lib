@@ -5,7 +5,7 @@ parent: Year 1 Semester 2
 permalink: /year-1-semester-2/database/
 ---
 # Database
-
+{: .no_toc }
 'This module introduces students to the underlying concepts of database systems and how to model and design database systems that reflect business requirements.'
 {: .fs-6 .fw-300 }
 Extract from [Ngee Ann Polytechnic](https://www.np.edu.sg/ict/Pages/it-syllabus.aspx){:target="_blank"}

@@ -5,7 +5,7 @@ parent: Secondary School (O-Level)
 permalink: /o-level/e-math/
 ---
 # E-Math
-
+{: .no_toc }
 'The syllabus is intended to provide students with the fundamental mathematical knowledge and skills. The
 content is organised into three strands namely, Number and Algebra, Geometry and Measurement, and
 Statistics and Probability'
