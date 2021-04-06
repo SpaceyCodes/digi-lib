@@ -13,10 +13,14 @@ Extract from [Ngee Ann Polytechnic](https://www.np.edu.sg/ict/Pages/it-syllabus.
 ---
 
 <link rel="stylesheet" type="text/css" media="all" href="../../css.css">
-TABLE OF CONTENTS
-* [SQL](#sql-notes)
-* [Logical Database Notes](#logical-database-notes)
-* [Final Assignment](#final-assignment)</br>
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
 
 ## SQL Notes
 <iframe src="../../src/SQL-Notes.pdf" class="pdf"></iframe>

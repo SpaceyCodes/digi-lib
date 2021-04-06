@@ -15,9 +15,14 @@ Extract from [SEAB - GCE O-Level](https://www.seab.gov.sg/docs/default-source/na
 ---
 
 <link rel="stylesheet" type="text/css" media="all" href="../../css.css">
-TABLE OF CONTENTS
-* [Notes (Self-made)](#Notes-(self-made))
-* [Notes (Given by classmate)](#Notes-(self-made))</br>
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
 
 ## Notes (Self-made)
 <iframe src="../../src/SQL-Notes.pdf" class="pdf"></iframe>

@@ -12,9 +12,14 @@ Extract from [Ngee Ann Polytechnic](https://www.np.edu.sg/ict/Pages/it-syllabus.
 {: .fs-4 .fw-300 .lh-0}
 ---
 <link rel="stylesheet" type="text/css" media="all" href="../../css.css" />
-TABLE OF CONTENTS
-* [Notes](#notes)
-* [Questions](#questions)</br>
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
 
 ## Notes
 <iframe src="../../src/AS_notes.pdf" class="pdf"></iframe>

@@ -13,9 +13,14 @@ Extract from [Ngee Ann Polytechnic](https://www.np.edu.sg/ict/Pages/it-syllabus.
 ---
 
 <link rel="stylesheet" type="text/css" media="all" href="../../css.css" />
-TABLE OF CONTENTS
-* [Notes (Part 1)](#notes-(part-1))
-* [Notes (Part 2)](#notes-(part-2))</br>
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
 
 ## Notes (Part 1)
 <iframe src="../../src/OSNF_notes.pdf" class="pdf"></iframe>

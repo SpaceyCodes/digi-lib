@@ -14,8 +14,14 @@ Extract from [SEAB - GCE O-Level](https://www.seab.gov.sg/docs/default-source/na
 ---
 
 <link rel="stylesheet" type="text/css" media="all" href="../../css.css" />
-TABLE OF CONTENTS
-* [Notes](#notes)</br>
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
 
 ## Notes
 <iframe src="../../src/A_Math.pdf" class="pdf"></iframe>
