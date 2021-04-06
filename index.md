@@ -5,7 +5,7 @@ nav_order: 1
 ---
 # MyNotes, a digital database
 {: .fs-9 }
-
+<link rel="icon" href="icon.png">
 Notes a place where past notes are stored, allowing me to more reliably access and view my notes. This is also a place where others can view and learn from my past experiences.
 {: .fs-6 .fw-300 }
 [View on GitHub](https://github.com/SpaceyCodes/digi-lib){:target="_blank"}{: .btn .fs-5 .mb-4 .mb-md-0 }
