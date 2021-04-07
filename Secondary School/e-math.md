@@ -25,7 +25,7 @@ Extract from [SEAB - GCE O-Level](https://www.seab.gov.sg/docs/default-source/na
 ---
 
 ## Notes (Self-made)
-<iframe src="../../src/SQL-Notes.pdf" class="pdf"></iframe>
+<iframe src="../../src/E_Math_1.pdf" class="pdf"></iframe>
 
 ## Notes (Given by classmate)
-<iframe src="../../src/DB_ERModel.pdf" class="pdf"></iframe>
+<iframe src="../../src/E_Math_1.pdf" class="pdf"></iframe>
