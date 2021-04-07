@@ -26,7 +26,7 @@ Extract from [Ngee Ann Polytechnic](https://www.np.edu.sg/ict/Pages/it-syllabus.
 <iframe src="../../src/SQL-Notes.pdf" class="pdf"></iframe>
 
 ## Logical Database Notes
-<iframe src="../../src/DB_ERModel.pdf" class="pdf"></iframe>
+<iframe src="../../src/DB_logical_database.pdf" class="pdf"></iframe>
 
 ## Final Assignment
 <iframe src="../../src/DB-P03-Assignment02.pdf" class="pdf"></iframe>
